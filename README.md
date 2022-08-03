@@ -15,4 +15,4 @@
 ### Visualization Mania:
 | Unitree A1 | Boston Dynamics Atlas | Panda Arm | Tugging Drone |
 | --- | --- | --- | --- |
-| <img src="deps/quadruped.gif" height="200"/> | <img src="deps/atlas.gif" height="200"/> | 
+| <img src="deps/quadruped.gif" height="200"/> | <img src="deps/atlas.gif" height="200"/> | <img src="deps/panda.gif" height="200"/> | <img src="deps/tugbot.gif" height="200"/> | 
