@@ -1,5 +1,7 @@
 ### Hi there I'm Simon! 👋
 
+
+
 ## Notable Papers
 * [Dojo: A Differentiable Physics Engine for Robotics](https://arxiv.org/abs/2203.00806)
 * [Fast Contact-Implicit Model-Predictive Control](https://arxiv.org/abs/2107.05616)
@@ -12,7 +14,7 @@
 | [ContactImplicitMPC.jl](https://github.com/dojo-sim/ContactImplicitMPC.jl) | a model preditive controller for robots that make and break contact | ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) |
 | [Algames.jl](https://github.com/RoboticExplorationLab/Algames.jl) | state-of-the-art dynamics games solver | ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) |
 
-### Visualization Mania:
+### Trying to create nice looking animations:
 | Unitree A1 | Boston Dynamics Atlas | Panda Arm | Tugging Drone |
 | --- | --- | --- | --- |
 | <img src="deps/quadruped.gif" height="200"/> | <img src="deps/atlas.gif" height="200"/> | <img src="deps/panda.gif" height="200"/> | <img src="deps/tugbot.gif" height="200"/> | 
