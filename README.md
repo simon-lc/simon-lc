@@ -13,6 +13,6 @@
 | [Algames.jl](https://github.com/RoboticExplorationLab/Algames.jl) | SotA dynamics games solver | ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) |
 
 ### Visualization Mania:
-| Unitree A1 | Boston Dynamics Atlas |
-| --- | --- |
+| Unitree A1 | Boston Dynamics Atlas | Panda Arm | Tugging Drone |
+| --- | --- | --- | --- |
 | <img src="deps/quadruped.gif" height="200"/> | <img src="deps/atlas.gif" height="200"/> | 
