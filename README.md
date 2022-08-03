@@ -14,4 +14,4 @@
 
 | Unitree A1 | Boston Dynamics Atlas |
 | --- | --- |
-| <img src="deps/quadruped.gif" width="200"/> | <img src="deps/atlas.gif" width="200"/> | 
+| <img src="deps/quadruped.gif" height="200"/> | <img src="deps/atlas.gif" height="200"/> | 
