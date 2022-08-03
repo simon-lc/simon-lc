@@ -1,6 +1,6 @@
 ### Hi there I'm Simon! 👋
 
-I'm currently Research Scientist Intern @ [Google Robotics](https://research.google/teams/brain/robotics/) and PhD candidate @ [Stanford University](https://www.stanford.edu/) working with [Zachary Manchester](https://www.ri.cmu.edu/ri-faculty/zachary-manchester/) and [Mac Schwager](https://web.stanford.edu/~schwager/). 
+I'm currently Research Scientist Intern @ [Google Robotics](https://research.google/teams/brain/robotics/) and PhD candidate in robotics and optimization @ [Stanford University](https://www.stanford.edu/) working with [Zachary Manchester](https://www.ri.cmu.edu/ri-faculty/zachary-manchester/) and [Mac Schwager](https://web.stanford.edu/~schwager/). 
 
 Previously:
 - software engineering intern at [Aurora Innovation](https://aurora.tech/)
