@@ -1,6 +1,10 @@
 ### Hi there I'm Simon! 👋
 
+I'm currently Research Scientist Intern @ [Google Robotics](https://research.google/teams/brain/robotics/) and PhD candidate @ [Stanford University](https://www.stanford.edu/) working with [Zachary Manchester](https://www.ri.cmu.edu/ri-faculty/zachary-manchester/) and [Mac Schwager](https://web.stanford.edu/~schwager/). 
 
+Previously:
+- software engineering intern at [Aurora Innovation](https://aurora.tech/)
+- undergraduate student at [Ecole Centrale Paris](https://www.centralesupelec.fr/)
 
 ## Notable Papers
 * [Dojo: A Differentiable Physics Engine for Robotics](https://arxiv.org/abs/2203.00806)
@@ -12,7 +16,7 @@
 | ------------ | ----------------- | -------- |
 | [Dojo.jl](https://github.com/dojo-sim/Dojo.jl) | a differentiable physics engine for robotics | ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) |
 | [ContactImplicitMPC.jl](https://github.com/dojo-sim/ContactImplicitMPC.jl) | a model preditive controller for robots that make and break contact | ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) |
-| [Algames.jl](https://github.com/RoboticExplorationLab/Algames.jl) | state-of-the-art dynamics games solver | ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) |
+| [Algames.jl](https://github.com/RoboticExplorationLab/Algames.jl) | SotA dynamics games solver | ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) |
 
 ### Trying to create nice looking animations:
 | Unitree A1 | Boston Dynamics Atlas | Panda Arm | Tugging Drone |
