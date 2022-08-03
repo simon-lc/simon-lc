@@ -2,6 +2,9 @@
 
 I'm currently Research Scientist Intern @ [Google Robotics](https://research.google/teams/brain/robotics/) and PhD candidate in robotics and optimization @ [Stanford University](https://www.stanford.edu/) working with [Zachary Manchester](https://www.ri.cmu.edu/ri-faculty/zachary-manchester/) and [Mac Schwager](https://web.stanford.edu/~schwager/). 
 
+I am passionate about developing fast optimization algorithms for robotics applications. I am designing and implementing a [differentiable physics simulator](https://github.com/dojo-sim/Dojo.jl) and leveraging this tool for [model predictive control](https://github.com/dojo-sim/ContactImplicitMPC.jl), trajectory optimization and reinforcement learning tasks in robotic locomotion and manipulation.
+Previously, I implemented optimization algorithms enabling [game-theoretic reasoning](https://github.com/RoboticExplorationLab/Algames.jl) for autonomous vehicles
+
 Previously:
 - software engineering intern at [Aurora Innovation](https://aurora.tech/)
 - undergraduate student at [Ecole Centrale Paris](https://www.centralesupelec.fr/)
