@@ -23,4 +23,4 @@ Previously:
 | --- | --- | --- | --- |
 | <img src="deps/quadruped.gif" height="200"/> | <img src="deps/atlas.gif" height="200"/> | <img src="deps/panda.gif" height="200"/> | <img src="deps/tugbot.gif" height="200"/> | 
 
-I'm using [MeshCat.jl](https://github.com/rdeits/MeshCat.jl) and developing [RobotVisualizer.jl](https://github.com/simon-lc/RobotVisualizer.jl) to make it prettier.
+I'm using Robin Deits' [MeshCat.jl](https://github.com/rdeits/MeshCat.jl) and developing [RobotVisualizer.jl](https://github.com/simon-lc/RobotVisualizer.jl) to make it prettier.
