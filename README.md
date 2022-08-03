@@ -10,7 +10,7 @@
 | ------------ | ----------------- | -------- |
 | [Dojo.jl](https://github.com/dojo-sim/Dojo.jl) | a differentiable physics engine for robotics | ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) |
 | [ContactImplicitMPC.jl](https://github.com/dojo-sim/ContactImplicitMPC.jl) | a model preditive controller for robots that make and break contact | ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) |
-| [Algames.jl](https://github.com/RoboticExplorationLab/Algames.jl) | SotA dynamics games solver | ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) |
+| [Algames.jl](https://github.com/RoboticExplorationLab/Algames.jl) | state-of-the-art dynamics games solver | ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) |
 
 ### Visualization Mania:
 | Unitree A1 | Boston Dynamics Atlas | Panda Arm | Tugging Drone |
