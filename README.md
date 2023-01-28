@@ -6,6 +6,7 @@ I am passionate about developing fast optimization algorithms for robotics appli
 Previously, I implemented optimization algorithms enabling [game-theoretic reasoning](https://github.com/RoboticExplorationLab/Algames.jl) for autonomous vehicles
 
 Previously:
+- research scientist inter at [Google Brain Robotics](https://research.google/teams/brain/)
 - software engineering intern at [Aurora Innovation](https://aurora.tech/)
 - undergraduate student at [Ecole Centrale Paris](https://www.centralesupelec.fr/)
 
