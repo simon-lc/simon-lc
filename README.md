@@ -17,6 +17,7 @@ Previously:
 ## Top Open Source Projects
 | :gift: project name | :book: brief description | language |
 | ------------ | ----------------- | -------- |
+| [Silico.jl](https://github.com/simon-lc/Silico.jl) | u nified collision detection and contact simulation | ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) |
 | [Dojo.jl](https://github.com/dojo-sim/Dojo.jl) | a differentiable physics engine for robotics | ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) |
 | [ContactImplicitMPC.jl](https://github.com/dojo-sim/ContactImplicitMPC.jl) | a model preditive controller for robots that make and break contact | ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) |
 | [Algames.jl](https://github.com/RoboticExplorationLab/Algames.jl) | SotA dynamic games solver | ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) |
