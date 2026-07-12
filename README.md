@@ -9,7 +9,7 @@ I'm currently research scientist at the [Robotics and AI Institute](https://rai-
 ## Notable papers
 * [Dojo: A Differentiable Physics Engine for Robotics](https://arxiv.org/abs/2203.00806)
 * [Fast Contact-Implicit Model-Predictive Control](https://arxiv.org/abs/2107.05616)
-* [ALGAMES: a fast augmented Lagrangian solver for constrained dynamic games](https://link.springer.com/article/10.1007/s10514-021-10024-7) [code](https://github.com/RoboticExplorationLab/Algames.jl)
+* [ALGAMES: a fast augmented Lagrangian solver for constrained dynamic games](https://link.springer.com/article/10.1007/s10514-021-10024-7)
 
 
 ## Top open source projects
