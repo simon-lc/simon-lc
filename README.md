@@ -27,9 +27,9 @@ A framework that steers a learned whole-body policy with a sampling-based reacti
 | :hammer_and_wrench: project name | :book: brief description | ⭐ stars |
 | ------------ | ----------------- | ------ |
 | [Judo](https://github.com/rai-opensource/judo) | hackable sampling-based MPC toolbox  | ![GitHub stars](https://img.shields.io/github/stars/rai-opensource/judo?style=social) |
-| [Dojo.jl](https://github.com/dojo-sim/Dojo.jl) | differentiable physics engine for robotics | ![GitHub stars](https://img.shields.io/github/stars/dojo-sim/Dojo.jl?style=social) |
-| [ContactImplicitMPC.jl](https://github.com/dojo-sim/ContactImplicitMPC.jl) | predictive control algorithm for robots that make and break contact | ![GitHub stars](https://img.shields.io/github/stars/dojo-sim/ContactImplicitMPC.jl?style=social) |
-| [Algames.jl](https://github.com/RoboticExplorationLab/Algames.jl) | game-theoretic solver | ![GitHub stars](https://img.shields.io/github/stars/RoboticExplorationLab/Algames.jl?style=social) |
+| [Dojo](https://github.com/dojo-sim/Dojo.jl) | differentiable physics engine for robotics | ![GitHub stars](https://img.shields.io/github/stars/dojo-sim/Dojo.jl?style=social) |
+| [ContactImplicitMPC](https://github.com/dojo-sim/ContactImplicitMPC.jl) | predictive control algorithm for robots that make and break contact | ![GitHub stars](https://img.shields.io/github/stars/dojo-sim/ContactImplicitMPC.jl?style=social) |
+| [Algames](https://github.com/RoboticExplorationLab/Algames.jl) | game-theoretic solver | ![GitHub stars](https://img.shields.io/github/stars/RoboticExplorationLab/Algames.jl?style=social) |
 <!-- | [Silico.jl](https://github.com/simon-lc/Silico.jl) | unified formulation for collision detection and contact simulation | ![GitHub stars](https://img.shields.io/github/stars/simon-lc/Silico.jl?style=social) | -->
 
 
