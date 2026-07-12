@@ -9,8 +9,8 @@ My recent work tackles whole-body and dynamic manipulation, enabling legged robo
 [![📄 CV](https://img.shields.io/badge/CV-PDF-E53935?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://simon-lc.github.io/assets/admin/cv.pdf)
 
 ## Project release
-* **Combining Sampling and Learning for Dynamic Whole-Body Manipulation**
-  * A framework that steers a learned whole-body policy with a sampling-based reactive controller, letting legged robots dynamically manipulate large, heavy objects at human cadence. <br>
+* **Combining Sampling and Learning for Dynamic Whole-Body Manipulation** <br>
+A framework that steers a learned whole-body policy with a sampling-based reactive controller, letting legged robots dynamically manipulate large, heavy objects at human cadence. <br>
 [![▶️ YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=nM_ZHzp8nQA)
 [![📝 Blog Post](https://img.shields.io/badge/Blog%20Post-00897B?style=for-the-badge&logo=readthedocs&logoColor=white)](https://rai-inst.com/resources/blog/combining-sampling-and-learning-for-dynamic-whole-body-manipulation/)
 
