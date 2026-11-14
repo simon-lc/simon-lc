@@ -6,12 +6,17 @@ My recent work tackles whole-body and dynamic manipulation, enabling legged robo
 
 [![🌐 Website](https://img.shields.io/badge/Website-1E88E5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://simon-lc.github.io/)
 [![🎓 Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=PfY9_xIAAAAJ)
-[![📄 CV](https://img.shields.io/badge/CV-PDF-E53935?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://simon-lc.github.io/assets/admin/cv.pdf)
+[![📄 CV](https://img.shields.io/badge/CV-PDF-E57373?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://simon-lc.github.io/assets/admin/simon-le-cleach-cv.pdf)
 
 ## Project release
+* **Whole-Body Manipulation Outside the Lab** <br>
+Takes dynamic whole-body manipulation out of the lab: Spot runs with onboard compute and perceives objects with its own depth cameras, uprighting, rolling, and dragging a heavy tire in uninstrumented environments and recovering from unexpected perturbations. <br>
+[![▶️ YouTube](https://img.shields.io/badge/YouTube-E57373?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=nDIWulWjDz8&t=39s)
+[![📝 Blog Post](https://img.shields.io/badge/Blog%20Post-00897B?style=for-the-badge&logo=readthedocs&logoColor=white)](https://rai-inst.com/resources/blog/whole-body-manipulation-outside-the-lab/)
+
 * **Combining Sampling and Learning for Dynamic Whole-Body Manipulation** <br>
 A framework that steers a learned whole-body policy with a sampling-based reactive controller, letting legged robots dynamically manipulate large, heavy objects at human cadence. <br>
-[![▶️ YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=nM_ZHzp8nQA)
+[![▶️ YouTube](https://img.shields.io/badge/YouTube-E57373?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=nM_ZHzp8nQA)
 [![📝 Blog Post](https://img.shields.io/badge/Blog%20Post-00897B?style=for-the-badge&logo=readthedocs&logoColor=white)](https://rai-inst.com/resources/blog/combining-sampling-and-learning-for-dynamic-whole-body-manipulation/)
 
 ## Notable papers
